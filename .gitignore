@@ -1,0 +1,18 @@
+﻿# ignore compiled files
+/bin/
+*.class
+
+
+# ignore generated javadoc
+/doc/
+
+
+# ignore log files
+*.log
+
+
+# ignore packages and archives
+*.jar
+*.zip
+*.tar.gz
+*.rar
